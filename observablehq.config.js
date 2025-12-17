@@ -1,8 +1,5 @@
 export default {
   title: "Cloud Storage Pricing Portal",
-  pages: [
-    {name: "Cloud Storage Pricing", path: "/cloud-storage"}
-  ],
   head: `
   <link rel="icon" href="observable.png" type="image/png" sizes="32x32">
   <script>

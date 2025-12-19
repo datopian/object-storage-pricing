@@ -339,7 +339,7 @@ display(html`<div class="dashboard-container">
 
   <div class="dashboard-footer">
     <span>Built with <a href="https://www.portaljs.com/" target="_blank">PortalJS</a> and Observable Framework</span>
-    <span>Sources: <a href="https://gist.github.com/Manouchehri/733e6235457e60de24fdbb15046fba7f" target="_blank">comparethe.co</a></span>
+    <span>Sources: <a href="https://comparethe.co/Cloud+Storage+Pricing" target="_blank">comparethe.co</a></span>
   </div>
 </div>`)
 ```

@@ -2,17 +2,6 @@
 toc: false
 ---
 
-<div class="portaljs-banner">
-  <div class="portaljs-banner-content">
-    <div class="portaljs-banner-text">
-      <p class="portaljs-banner-title">Create beautiful data portals with PortalJS</p>
-    </div>
-  </div>
-  <a href="https://www.portaljs.com/" target="_blank" rel="noopener noreferrer" class="portaljs-banner-cta">
-    Get started free
-  </a>
-</div>
-
 ```js
 const storageData = FileAttachment("data/cloud_storage_pricing.csv").csv({typed: true});
 ```

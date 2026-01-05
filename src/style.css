@@ -33,67 +33,6 @@ body {
   overflow-anchor: none !important;
 }
 
-.portaljs-banner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--spacing-sm);
-  padding: 14px var(--spacing-lg);
-  background: linear-gradient(90deg, #1C1917 0%, #292524 100%);
-  margin: 0 calc(-1 * var(--observablehq-margin-inline, 1rem)) var(--spacing-lg);
-  flex-wrap: wrap;
-}
-
-.portaljs-banner-content {
-  display: flex;
-  align-items: center;
-  gap: 0;
-}
-
-.portaljs-banner-text {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 0;
-}
-
-.portaljs-banner-title {
-  font-size: 16px;
-  font-weight: 500;
-  color: #FFFFFF;
-  margin: 0;
-  line-height: 24px;
-  letter-spacing: -0.3px;
-}
-
-.portaljs-banner-description,
-.portaljs-banner-icon {
-  display: none;
-}
-
-.portaljs-banner-cta {
-  display: inline-flex;
-  align-items: center;
-  padding: 6px 17px;
-  background: #FFFFFF;
-  color: #1C1917;
-  font-size: 12px;
-  font-weight: 700;
-  text-decoration: none;
-  border-radius: 9999px;
-  transition: all 0.2s ease;
-  white-space: nowrap;
-}
-
-.portaljs-banner-cta:hover {
-  background: #F5F5F4;
-  text-decoration: none;
-}
-
-.portaljs-banner-cta-arrow {
-  display: none;
-}
-
 .hero {
   margin-bottom: var(--spacing-lg);
 }
@@ -403,15 +342,6 @@ footer {
 }
 
 @media (max-width: 768px) {
-  .portaljs-banner {
-    padding: 12px var(--spacing-sm);
-    gap: var(--spacing-xs);
-  }
-
-  .portaljs-banner-title {
-    font-size: 14px;
-  }
-
   .hero h1 {
     font-size: 24px;
     line-height: 30px;

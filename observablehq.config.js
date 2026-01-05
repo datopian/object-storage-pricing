@@ -12,5 +12,5 @@ export default {
   `,
   root: "src",
   style: "style.css",
-  footer: 'Built with <a href="https://www.portaljs.com/" target="_blank" rel="noopener noreferrer">PortalJS</a> and Observable Framework.',
+  footer: 'Built with Observable Framework. Sources: comparethe.co.',
 };

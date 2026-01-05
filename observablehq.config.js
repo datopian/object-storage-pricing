@@ -1,7 +1,7 @@
 export default {
   title: "Cloud Storage Pricing Portal",
   head: `
-  <link rel="icon" href="observable.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="portaljs.svg" type="image/svg+xml" sizes="32x32">
   <script>
     sessionStorage.setItem("observablehq-sidebar", "false");
   </script>
